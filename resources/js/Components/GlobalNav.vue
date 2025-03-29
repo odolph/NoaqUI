@@ -1,12 +1,12 @@
 <template>
-    <nav class="fixed top-0 left-0 right-0 h-12 bg-background border-b border-border z-50">
+    <nav class="fixed top-0 left-0 right-0 h-12 bg-[#101011] border-b border-border z-50">
         <div class="flex items-center justify-between h-full px-4">
             <!-- Logo and Brand -->
             <div class="flex items-center">
                 <Link href="/" class="flex items-center">
-                    <img src="/infinity-logo.svg" alt="Logo" class="h-7 w-7" />
+                    <img src="/svg-logo.svg" alt="NOQA Logo" class="h-5 w-auto" />
                 </Link>
-                <span class="ml-2 text-sm font-bold text-foreground">NOQA</span>
+                <span class="ml-2 text-base font-bold text-foreground">NOQA</span>
             </div>
 
             <!-- Right Side -->
